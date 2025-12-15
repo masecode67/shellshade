@@ -1,0 +1,37 @@
+{
+  "name": "GitHub Dark",
+  "author": "GitHub",
+  "description": "GitHub's official dark theme with modern, clean aesthetics",
+  "colors": {
+    "background": "#0D1117",
+    "foreground": "#C9D1D9",
+    "cursor": "#58A6FF",
+    "cursorText": "#0D1117",
+    "selection": "#264F78",
+    "selectionText": "#C9D1D9",
+    "ansi": {
+      "black": "#484F58",
+      "red": "#FF7B72",
+      "green": "#3FB950",
+      "yellow": "#D29922",
+      "blue": "#58A6FF",
+      "magenta": "#BC8CFF",
+      "cyan": "#39C5CF",
+      "white": "#B1BAC4",
+      "brightBlack": "#6E7681",
+      "brightRed": "#FFA198",
+      "brightGreen": "#56D364",
+      "brightYellow": "#E3B341",
+      "brightBlue": "#79C0FF",
+      "brightMagenta": "#D2A8FF",
+      "brightCyan": "#56D4DD",
+      "brightWhite": "#F0F6FC"
+    }
+  },
+  "settings": {
+    "fontFamily": "JetBrains Mono",
+    "fontSize": 13,
+    "cursorStyle": "block",
+    "cursorBlink": true
+  }
+}

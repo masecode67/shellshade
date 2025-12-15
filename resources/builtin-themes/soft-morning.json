@@ -1,0 +1,31 @@
+{
+  "name": "Soft Morning",
+  "author": "Termify",
+  "description": "Extra bright light theme with soft accents",
+  "colors": {
+    "background": "#FFFFFF",
+    "foreground": "#90A4AE",
+    "cursor": "#272727",
+    "cursorText": "#FFFFFF",
+    "selection": "#80CBC440",
+    "selectionText": "#90A4AE",
+    "ansi": {
+      "black": "#90A4AE",
+      "red": "#E53935",
+      "green": "#91B859",
+      "yellow": "#FFB300",
+      "blue": "#6182B8",
+      "magenta": "#7C4DFF",
+      "cyan": "#39ADB5",
+      "white": "#FFFFFF",
+      "brightBlack": "#B0BEC5",
+      "brightRed": "#E53935",
+      "brightGreen": "#91B859",
+      "brightYellow": "#FFB300",
+      "brightBlue": "#6182B8",
+      "brightMagenta": "#7C4DFF",
+      "brightCyan": "#39ADB5",
+      "brightWhite": "#FFFFFF"
+    }
+  }
+}

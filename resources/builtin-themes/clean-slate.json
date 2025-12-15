@@ -1,0 +1,31 @@
+{
+  "name": "Clean Slate",
+  "author": "Termify",
+  "description": "Clean light theme inspired by modern design",
+  "colors": {
+    "background": "#FAFAFA",
+    "foreground": "#546E7A",
+    "cursor": "#272727",
+    "cursorText": "#FAFAFA",
+    "selection": "#80CBC440",
+    "selectionText": "#546E7A",
+    "ansi": {
+      "black": "#546E7A",
+      "red": "#FF5370",
+      "green": "#91B859",
+      "yellow": "#FFB62C",
+      "blue": "#6182B8",
+      "magenta": "#7C4DFF",
+      "cyan": "#39ADB5",
+      "white": "#FAFAFA",
+      "brightBlack": "#607D8B",
+      "brightRed": "#FF5370",
+      "brightGreen": "#91B859",
+      "brightYellow": "#FFB62C",
+      "brightBlue": "#6182B8",
+      "brightMagenta": "#7C4DFF",
+      "brightCyan": "#39ADB5",
+      "brightWhite": "#FFFFFF"
+    }
+  }
+}

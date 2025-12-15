@@ -1,0 +1,31 @@
+{
+  "name": "Slack Ochin",
+  "author": "Slack",
+  "description": "Light professional theme inspired by Slack",
+  "colors": {
+    "background": "#FFFFFF",
+    "foreground": "#1D1C1D",
+    "cursor": "#1264A3",
+    "cursorText": "#FFFFFF",
+    "selection": "#1D9BD11A",
+    "selectionText": "#1D1C1D",
+    "ansi": {
+      "black": "#1D1C1D",
+      "red": "#E01E5A",
+      "green": "#2EB67D",
+      "yellow": "#ECB22E",
+      "blue": "#36C5F0",
+      "magenta": "#E01E5A",
+      "cyan": "#2EB67D",
+      "white": "#FFFFFF",
+      "brightBlack": "#616061",
+      "brightRed": "#E01E5A",
+      "brightGreen": "#2EB67D",
+      "brightYellow": "#ECB22E",
+      "brightBlue": "#36C5F0",
+      "brightMagenta": "#E01E5A",
+      "brightCyan": "#2EB67D",
+      "brightWhite": "#FFFFFF"
+    }
+  }
+}

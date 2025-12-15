@@ -1,0 +1,31 @@
+{
+  "name": "Gruvbox Light",
+  "author": "Gruvbox",
+  "description": "Retro groove light variant",
+  "colors": {
+    "background": "#FBF1C7",
+    "foreground": "#3C3836",
+    "cursor": "#282828",
+    "cursorText": "#FBF1C7",
+    "selection": "#EBDBB2",
+    "selectionText": "#3C3836",
+    "ansi": {
+      "black": "#FBF1C7",
+      "red": "#CC241D",
+      "green": "#98971A",
+      "yellow": "#D79921",
+      "blue": "#458588",
+      "magenta": "#B16286",
+      "cyan": "#689D6A",
+      "white": "#7C6F64",
+      "brightBlack": "#928374",
+      "brightRed": "#9D0006",
+      "brightGreen": "#79740E",
+      "brightYellow": "#B57614",
+      "brightBlue": "#076678",
+      "brightMagenta": "#8F3F71",
+      "brightCyan": "#427B58",
+      "brightWhite": "#3C3836"
+    }
+  }
+}

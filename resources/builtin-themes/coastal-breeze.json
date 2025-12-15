@@ -1,0 +1,31 @@
+{
+  "name": "Coastal Breeze",
+  "author": "Termify",
+  "description": "Light ocean-inspired coastal theme",
+  "colors": {
+    "background": "#F7FAFC",
+    "foreground": "#607B96",
+    "cursor": "#304FFE",
+    "cursorText": "#F7FAFC",
+    "selection": "#E3F2FD",
+    "selectionText": "#607B96",
+    "ansi": {
+      "black": "#607B96",
+      "red": "#FF6B6B",
+      "green": "#66BB6A",
+      "yellow": "#FFD93D",
+      "blue": "#5C9CE6",
+      "magenta": "#9575CD",
+      "cyan": "#4DD0E1",
+      "white": "#F7FAFC",
+      "brightBlack": "#90A4AE",
+      "brightRed": "#FF5252",
+      "brightGreen": "#69F0AE",
+      "brightYellow": "#FFE082",
+      "brightBlue": "#82B1FF",
+      "brightMagenta": "#EA80FC",
+      "brightCyan": "#84FFFF",
+      "brightWhite": "#FFFFFF"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Ayu Light",
+  "author": "Ayu",
+  "description": "Simple, bright colors on light background",
+  "colors": {
+    "background": "#FAFAFA",
+    "foreground": "#575F66",
+    "cursor": "#FF6A00",
+    "cursorText": "#FAFAFA",
+    "selection": "#F0EEE4",
+    "selectionText": "#575F66",
+    "ansi": {
+      "black": "#575F66",
+      "red": "#F51818",
+      "green": "#86B300",
+      "yellow": "#F29718",
+      "blue": "#41A6D9",
+      "magenta": "#A37ACC",
+      "cyan": "#4CBF99",
+      "white": "#FAFAFA",
+      "brightBlack": "#828C99",
+      "brightRed": "#FF3333",
+      "brightGreen": "#86B300",
+      "brightYellow": "#F29718",
+      "brightBlue": "#73D8FF",
+      "brightMagenta": "#A37ACC",
+      "brightCyan": "#4CBF99",
+      "brightWhite": "#FFFFFF"
+    }
+  }
+}

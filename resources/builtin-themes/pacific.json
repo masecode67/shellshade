@@ -1,0 +1,37 @@
+{
+  "name": "Pacific",
+  "author": "Termify",
+  "description": "The classic Termify with deep oceanic blue-green tones",
+  "colors": {
+    "background": "#263238",
+    "foreground": "#B0BEC5",
+    "cursor": "#FFCC00",
+    "cursorText": "#263238",
+    "selection": "#546E7A",
+    "selectionText": "#FFFFFF",
+    "ansi": {
+      "black": "#546E7A",
+      "red": "#FF5370",
+      "green": "#C3E88D",
+      "yellow": "#FFCB6B",
+      "blue": "#82AAFF",
+      "magenta": "#C792EA",
+      "cyan": "#89DDFF",
+      "white": "#EEFFFF",
+      "brightBlack": "#546E7A",
+      "brightRed": "#FF5370",
+      "brightGreen": "#C3E88D",
+      "brightYellow": "#FFCB6B",
+      "brightBlue": "#82AAFF",
+      "brightMagenta": "#C792EA",
+      "brightCyan": "#89DDFF",
+      "brightWhite": "#FFFFFF"
+    }
+  },
+  "settings": {
+    "fontFamily": "JetBrains Mono",
+    "fontSize": 13,
+    "cursorStyle": "block",
+    "cursorBlink": true
+  }
+}

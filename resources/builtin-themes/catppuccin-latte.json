@@ -1,0 +1,31 @@
+{
+  "name": "Catppuccin Latte",
+  "author": "Catppuccin",
+  "description": "Light variant of the soothing pastel Catppuccin theme",
+  "colors": {
+    "background": "#EFF1F5",
+    "foreground": "#4C4F69",
+    "cursor": "#DC8A78",
+    "cursorText": "#EFF1F5",
+    "selection": "#ACB0BE",
+    "selectionText": "#4C4F69",
+    "ansi": {
+      "black": "#5C5F77",
+      "red": "#D20F39",
+      "green": "#40A02B",
+      "yellow": "#DF8E1D",
+      "blue": "#1E66F5",
+      "magenta": "#EA76CB",
+      "cyan": "#179299",
+      "white": "#ACB0BE",
+      "brightBlack": "#6C6F85",
+      "brightRed": "#D20F39",
+      "brightGreen": "#40A02B",
+      "brightYellow": "#DF8E1D",
+      "brightBlue": "#1E66F5",
+      "brightMagenta": "#EA76CB",
+      "brightCyan": "#179299",
+      "brightWhite": "#BCC0CC"
+    }
+  }
+}

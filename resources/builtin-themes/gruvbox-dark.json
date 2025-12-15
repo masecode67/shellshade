@@ -1,0 +1,37 @@
+{
+  "name": "Gruvbox Dark",
+  "author": "morhetz",
+  "description": "Retro groove color scheme with warm earthy tones",
+  "colors": {
+    "background": "#282828",
+    "foreground": "#EBDBB2",
+    "cursor": "#EBDBB2",
+    "cursorText": "#282828",
+    "selection": "#504945",
+    "selectionText": "#EBDBB2",
+    "ansi": {
+      "black": "#282828",
+      "red": "#CC241D",
+      "green": "#98971A",
+      "yellow": "#D79921",
+      "blue": "#458588",
+      "magenta": "#B16286",
+      "cyan": "#689D6A",
+      "white": "#A89984",
+      "brightBlack": "#928374",
+      "brightRed": "#FB4934",
+      "brightGreen": "#B8BB26",
+      "brightYellow": "#FABD2F",
+      "brightBlue": "#83A598",
+      "brightMagenta": "#D3869B",
+      "brightCyan": "#8EC07C",
+      "brightWhite": "#EBDBB2"
+    }
+  },
+  "settings": {
+    "fontFamily": "JetBrains Mono",
+    "fontSize": 13,
+    "cursorStyle": "block",
+    "cursorBlink": true
+  }
+}

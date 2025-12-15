@@ -1,0 +1,31 @@
+{
+  "name": "Light Owl",
+  "author": "Sarah Drasner",
+  "description": "Light variant of Night Owl theme",
+  "colors": {
+    "background": "#FBFBFB",
+    "foreground": "#403F53",
+    "cursor": "#90A7B2",
+    "cursorText": "#FBFBFB",
+    "selection": "#E0E0E0",
+    "selectionText": "#403F53",
+    "ansi": {
+      "black": "#403F53",
+      "red": "#DE3D3B",
+      "green": "#08916A",
+      "yellow": "#E0AF02",
+      "blue": "#288ED7",
+      "magenta": "#D6438A",
+      "cyan": "#2AA298",
+      "white": "#F0F0F0",
+      "brightBlack": "#989FB1",
+      "brightRed": "#DE3D3B",
+      "brightGreen": "#08916A",
+      "brightYellow": "#DAAA01",
+      "brightBlue": "#288ED7",
+      "brightMagenta": "#D6438A",
+      "brightCyan": "#2AA298",
+      "brightWhite": "#FFFFFF"
+    }
+  }
+}

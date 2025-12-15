@@ -1,0 +1,37 @@
+{
+  "name": "Ember Glow",
+  "author": "Termify",
+  "description": "Warm dark theme with volcanic red and orange accents",
+  "colors": {
+    "background": "#1C1210",
+    "foreground": "#BCAAA4",
+    "cursor": "#FF6F00",
+    "cursorText": "#1C1210",
+    "selection": "#3E2723",
+    "selectionText": "#FFFFFF",
+    "ansi": {
+      "black": "#5D4037",
+      "red": "#FF5722",
+      "green": "#8BC34A",
+      "yellow": "#FFC107",
+      "blue": "#03A9F4",
+      "magenta": "#E91E63",
+      "cyan": "#00BCD4",
+      "white": "#EFEBE9",
+      "brightBlack": "#8D6E63",
+      "brightRed": "#FF7043",
+      "brightGreen": "#9CCC65",
+      "brightYellow": "#FFCA28",
+      "brightBlue": "#29B6F6",
+      "brightMagenta": "#F06292",
+      "brightCyan": "#26C6DA",
+      "brightWhite": "#FBE9E7"
+    }
+  },
+  "settings": {
+    "fontFamily": "JetBrains Mono",
+    "fontSize": 13,
+    "cursorStyle": "block",
+    "cursorBlink": true
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Nocturnal",
+  "author": "Termify",
+  "description": "Optimized for late-night coding with carefully tuned contrasts",
+  "colors": {
+    "background": "#011627",
+    "foreground": "#D6DEEB",
+    "cursor": "#80A4C2",
+    "cursorText": "#011627",
+    "selection": "#1D3B53",
+    "selectionText": "#FFFFFF",
+    "ansi": {
+      "black": "#575656",
+      "red": "#EF5350",
+      "green": "#22DA6E",
+      "yellow": "#ADDB67",
+      "blue": "#82AAFF",
+      "magenta": "#C792EA",
+      "cyan": "#21C7A8",
+      "white": "#FFFFFF",
+      "brightBlack": "#575656",
+      "brightRed": "#EF5350",
+      "brightGreen": "#22DA6E",
+      "brightYellow": "#FFEB95",
+      "brightBlue": "#82AAFF",
+      "brightMagenta": "#C792EA",
+      "brightCyan": "#7FDBCA",
+      "brightWhite": "#FFFFFF"
+    }
+  },
+  "settings": {
+    "fontFamily": "JetBrains Mono",
+    "fontSize": 13,
+    "cursorStyle": "block",
+    "cursorBlink": true
+  }
+}

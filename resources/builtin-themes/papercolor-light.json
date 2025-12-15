@@ -1,0 +1,31 @@
+{
+  "name": "PaperColor Light",
+  "author": "PaperColor",
+  "description": "Comfortable light theme inspired by paper",
+  "colors": {
+    "background": "#EEEEEE",
+    "foreground": "#444444",
+    "cursor": "#005F87",
+    "cursorText": "#EEEEEE",
+    "selection": "#D0D0D0",
+    "selectionText": "#444444",
+    "ansi": {
+      "black": "#EEEEEE",
+      "red": "#AF0000",
+      "green": "#008700",
+      "yellow": "#5F8700",
+      "blue": "#0087AF",
+      "magenta": "#878787",
+      "cyan": "#005F87",
+      "white": "#444444",
+      "brightBlack": "#BCBCBC",
+      "brightRed": "#D70000",
+      "brightGreen": "#D70087",
+      "brightYellow": "#8700AF",
+      "brightBlue": "#D75F00",
+      "brightMagenta": "#D75F00",
+      "brightCyan": "#005FAF",
+      "brightWhite": "#005F87"
+    }
+  }
+}

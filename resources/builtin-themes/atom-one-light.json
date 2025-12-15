@@ -1,0 +1,31 @@
+{
+  "name": "Atom One Light",
+  "author": "Atom",
+  "description": "Classic light theme from Atom editor",
+  "colors": {
+    "background": "#F9F9F9",
+    "foreground": "#383A42",
+    "cursor": "#4078F2",
+    "cursorText": "#F9F9F9",
+    "selection": "#E5E5E6",
+    "selectionText": "#383A42",
+    "ansi": {
+      "black": "#383A42",
+      "red": "#E45649",
+      "green": "#50A14F",
+      "yellow": "#986801",
+      "blue": "#4078F2",
+      "magenta": "#A626A4",
+      "cyan": "#0184BC",
+      "white": "#F9F9F9",
+      "brightBlack": "#A0A1A7",
+      "brightRed": "#CA1243",
+      "brightGreen": "#50A14F",
+      "brightYellow": "#C18401",
+      "brightBlue": "#4078F2",
+      "brightMagenta": "#A626A4",
+      "brightCyan": "#0184BC",
+      "brightWhite": "#FFFFFF"
+    }
+  }
+}

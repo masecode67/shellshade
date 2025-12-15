@@ -1,0 +1,37 @@
+{
+  "name": "Neon Dreams",
+  "author": "Termify",
+  "description": "Retro 80s neon aesthetic with vibrant synthwave colors",
+  "colors": {
+    "background": "#1A1025",
+    "foreground": "#F0E6FF",
+    "cursor": "#FF00FF",
+    "cursorText": "#1A1025",
+    "selection": "#3D2654",
+    "selectionText": "#FFFFFF",
+    "ansi": {
+      "black": "#4A3766",
+      "red": "#FF6188",
+      "green": "#A9DC76",
+      "yellow": "#FFD866",
+      "blue": "#78DCE8",
+      "magenta": "#FF92DF",
+      "cyan": "#00FFFF",
+      "white": "#F8F8F2",
+      "brightBlack": "#6E5B88",
+      "brightRed": "#FF79A8",
+      "brightGreen": "#B9EC86",
+      "brightYellow": "#FFE886",
+      "brightBlue": "#88ECF8",
+      "brightMagenta": "#FFB2EF",
+      "brightCyan": "#66FFFF",
+      "brightWhite": "#FFFFFF"
+    }
+  },
+  "settings": {
+    "fontFamily": "JetBrains Mono",
+    "fontSize": 13,
+    "cursorStyle": "block",
+    "cursorBlink": true
+  }
+}

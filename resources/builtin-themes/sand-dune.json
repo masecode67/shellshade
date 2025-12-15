@@ -1,0 +1,37 @@
+{
+  "name": "Sand Dune",
+  "author": "Termify",
+  "description": "Warm sandy tones for a relaxed coding experience",
+  "colors": {
+    "background": "#1F1B16",
+    "foreground": "#D7CCC8",
+    "cursor": "#FFB74D",
+    "cursorText": "#1F1B16",
+    "selection": "#3E3529",
+    "selectionText": "#FFFFFF",
+    "ansi": {
+      "black": "#5D4E37",
+      "red": "#FF7043",
+      "green": "#9CCC65",
+      "yellow": "#FFD54F",
+      "blue": "#4FC3F7",
+      "magenta": "#F06292",
+      "cyan": "#4DB6AC",
+      "white": "#EFEBE9",
+      "brightBlack": "#8D7B6B",
+      "brightRed": "#FF8A65",
+      "brightGreen": "#AED581",
+      "brightYellow": "#FFE082",
+      "brightBlue": "#81D4FA",
+      "brightMagenta": "#F48FB1",
+      "brightCyan": "#80CBC4",
+      "brightWhite": "#FFF8E1"
+    }
+  },
+  "settings": {
+    "fontFamily": "JetBrains Mono",
+    "fontSize": 13,
+    "cursorStyle": "block",
+    "cursorBlink": true
+  }
+}

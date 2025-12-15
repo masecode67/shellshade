@@ -1,0 +1,31 @@
+{
+  "name": "Min Light",
+  "author": "Minimal",
+  "description": "Ultra-minimal light theme",
+  "colors": {
+    "background": "#FFFFFF",
+    "foreground": "#1A1A1A",
+    "cursor": "#1A1A1A",
+    "cursorText": "#FFFFFF",
+    "selection": "#D2D2D2",
+    "selectionText": "#1A1A1A",
+    "ansi": {
+      "black": "#1A1A1A",
+      "red": "#F5425D",
+      "green": "#24B47E",
+      "yellow": "#F59F00",
+      "blue": "#0070F3",
+      "magenta": "#7928CA",
+      "cyan": "#50E3C2",
+      "white": "#FFFFFF",
+      "brightBlack": "#666666",
+      "brightRed": "#F5425D",
+      "brightGreen": "#50E3C2",
+      "brightYellow": "#F59F00",
+      "brightBlue": "#0070F3",
+      "brightMagenta": "#7928CA",
+      "brightCyan": "#50E3C2",
+      "brightWhite": "#FFFFFF"
+    }
+  }
+}

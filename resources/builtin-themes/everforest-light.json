@@ -1,0 +1,31 @@
+{
+  "name": "Everforest Light",
+  "author": "Everforest",
+  "description": "Green-based light theme inspired by forests",
+  "colors": {
+    "background": "#FDF6E3",
+    "foreground": "#5C6A72",
+    "cursor": "#5C6A72",
+    "cursorText": "#FDF6E3",
+    "selection": "#E6E2CC",
+    "selectionText": "#5C6A72",
+    "ansi": {
+      "black": "#5C6A72",
+      "red": "#F85552",
+      "green": "#8DA101",
+      "yellow": "#DFA000",
+      "blue": "#3A94C5",
+      "magenta": "#DF69BA",
+      "cyan": "#35A77C",
+      "white": "#FDF6E3",
+      "brightBlack": "#939F91",
+      "brightRed": "#F85552",
+      "brightGreen": "#8DA101",
+      "brightYellow": "#DFA000",
+      "brightBlue": "#3A94C5",
+      "brightMagenta": "#DF69BA",
+      "brightCyan": "#35A77C",
+      "brightWhite": "#FFFFFF"
+    }
+  }
+}

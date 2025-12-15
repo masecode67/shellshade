@@ -1,0 +1,37 @@
+{
+  "name": "Clear Sky",
+  "author": "Termify",
+  "description": "Cool blue-tinted dark theme inspired by clear skies",
+  "colors": {
+    "background": "#0D1B2A",
+    "foreground": "#90CAF9",
+    "cursor": "#FFCC00",
+    "cursorText": "#0D1B2A",
+    "selection": "#1B3A5A",
+    "selectionText": "#FFFFFF",
+    "ansi": {
+      "black": "#37474F",
+      "red": "#EF5350",
+      "green": "#66BB6A",
+      "yellow": "#FFEE58",
+      "blue": "#42A5F5",
+      "magenta": "#AB47BC",
+      "cyan": "#26C6DA",
+      "white": "#E3F2FD",
+      "brightBlack": "#546E7A",
+      "brightRed": "#E57373",
+      "brightGreen": "#81C784",
+      "brightYellow": "#FFF176",
+      "brightBlue": "#64B5F6",
+      "brightMagenta": "#BA68C8",
+      "brightCyan": "#4DD0E1",
+      "brightWhite": "#BBDEFB"
+    }
+  },
+  "settings": {
+    "fontFamily": "JetBrains Mono",
+    "fontSize": 13,
+    "cursorStyle": "block",
+    "cursorBlink": true
+  }
+}

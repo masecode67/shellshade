@@ -1,0 +1,31 @@
+{
+  "name": "Nord Light",
+  "author": "Nord",
+  "description": "Arctic, north-bluish light theme",
+  "colors": {
+    "background": "#ECEFF4",
+    "foreground": "#2E3440",
+    "cursor": "#2E3440",
+    "cursorText": "#ECEFF4",
+    "selection": "#D8DEE9",
+    "selectionText": "#2E3440",
+    "ansi": {
+      "black": "#3B4252",
+      "red": "#BF616A",
+      "green": "#A3BE8C",
+      "yellow": "#EBCB8B",
+      "blue": "#81A1C1",
+      "magenta": "#B48EAD",
+      "cyan": "#88C0D0",
+      "white": "#E5E9F0",
+      "brightBlack": "#4C566A",
+      "brightRed": "#BF616A",
+      "brightGreen": "#A3BE8C",
+      "brightYellow": "#EBCB8B",
+      "brightBlue": "#81A1C1",
+      "brightMagenta": "#B48EAD",
+      "brightCyan": "#8FBCBB",
+      "brightWhite": "#ECEFF4"
+    }
+  }
+}

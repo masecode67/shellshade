@@ -1,0 +1,37 @@
+{
+  "name": "Nebula",
+  "author": "Termify",
+  "description": "Deep space-inspired theme with cosmic purple undertones",
+  "colors": {
+    "background": "#0B0E14",
+    "foreground": "#B3B9C5",
+    "cursor": "#E6B450",
+    "cursorText": "#0B0E14",
+    "selection": "#1D2433",
+    "selectionText": "#FFFFFF",
+    "ansi": {
+      "black": "#3D4455",
+      "red": "#F28779",
+      "green": "#BAE67E",
+      "yellow": "#FFD580",
+      "blue": "#73D0FF",
+      "magenta": "#D4BFFF",
+      "cyan": "#95E6CB",
+      "white": "#C7C7C7",
+      "brightBlack": "#5C6773",
+      "brightRed": "#F29E8E",
+      "brightGreen": "#C8E88D",
+      "brightYellow": "#FFE6B3",
+      "brightBlue": "#8BE0FF",
+      "brightMagenta": "#E0D0FF",
+      "brightCyan": "#A8EED6",
+      "brightWhite": "#FFFFFF"
+    }
+  },
+  "settings": {
+    "fontFamily": "JetBrains Mono",
+    "fontSize": 13,
+    "cursorStyle": "block",
+    "cursorBlink": true
+  }
+}

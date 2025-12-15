@@ -1,0 +1,37 @@
+{
+  "name": "Deep Ocean",
+  "author": "Termify",
+  "description": "The darkest dark variant with navy blue undertones",
+  "colors": {
+    "background": "#0F111A",
+    "foreground": "#8F93A2",
+    "cursor": "#FFCC00",
+    "cursorText": "#0F111A",
+    "selection": "#1F2233",
+    "selectionText": "#FFFFFF",
+    "ansi": {
+      "black": "#4B526D",
+      "red": "#FF5370",
+      "green": "#C3E88D",
+      "yellow": "#FFCB6B",
+      "blue": "#82AAFF",
+      "magenta": "#C792EA",
+      "cyan": "#89DDFF",
+      "white": "#EEFFFF",
+      "brightBlack": "#4B526D",
+      "brightRed": "#FF5370",
+      "brightGreen": "#C3E88D",
+      "brightYellow": "#FFCB6B",
+      "brightBlue": "#82AAFF",
+      "brightMagenta": "#C792EA",
+      "brightCyan": "#89DDFF",
+      "brightWhite": "#FFFFFF"
+    }
+  },
+  "settings": {
+    "fontFamily": "JetBrains Mono",
+    "fontSize": 13,
+    "cursorStyle": "block",
+    "cursorBlink": true
+  }
+}

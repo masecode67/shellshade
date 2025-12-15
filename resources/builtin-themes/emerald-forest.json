@@ -1,0 +1,37 @@
+{
+  "name": "Emerald Forest",
+  "author": "Termify",
+  "description": "Nature-inspired dark theme with earthy green tones",
+  "colors": {
+    "background": "#1A2318",
+    "foreground": "#9BB38A",
+    "cursor": "#FFCC00",
+    "cursorText": "#1A2318",
+    "selection": "#2E3D2A",
+    "selectionText": "#FFFFFF",
+    "ansi": {
+      "black": "#4B5649",
+      "red": "#E57373",
+      "green": "#AED581",
+      "yellow": "#FFD54F",
+      "blue": "#64B5F6",
+      "magenta": "#BA68C8",
+      "cyan": "#4DD0E1",
+      "white": "#E8F5E9",
+      "brightBlack": "#6B7969",
+      "brightRed": "#EF9A9A",
+      "brightGreen": "#C5E1A5",
+      "brightYellow": "#FFE082",
+      "brightBlue": "#90CAF9",
+      "brightMagenta": "#CE93D8",
+      "brightCyan": "#80DEEA",
+      "brightWhite": "#F1F8E9"
+    }
+  },
+  "settings": {
+    "fontFamily": "JetBrains Mono",
+    "fontSize": 13,
+    "cursorStyle": "block",
+    "cursorBlink": true
+  }
+}

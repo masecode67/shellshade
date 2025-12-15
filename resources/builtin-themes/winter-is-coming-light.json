@@ -1,0 +1,31 @@
+{
+  "name": "Winter is Coming Light",
+  "author": "John Papa",
+  "description": "Crisp winter light theme",
+  "colors": {
+    "background": "#FFFFFF",
+    "foreground": "#236EBF",
+    "cursor": "#00BFFF",
+    "cursorText": "#FFFFFF",
+    "selection": "#E5F4FF",
+    "selectionText": "#236EBF",
+    "ansi": {
+      "black": "#112233",
+      "red": "#E53935",
+      "green": "#4CAF50",
+      "yellow": "#FF9800",
+      "blue": "#2196F3",
+      "magenta": "#9C27B0",
+      "cyan": "#00BCD4",
+      "white": "#ECEFF1",
+      "brightBlack": "#546E7A",
+      "brightRed": "#FF5252",
+      "brightGreen": "#69F0AE",
+      "brightYellow": "#FFD740",
+      "brightBlue": "#448AFF",
+      "brightMagenta": "#E040FB",
+      "brightCyan": "#18FFFF",
+      "brightWhite": "#FFFFFF"
+    }
+  }
+}

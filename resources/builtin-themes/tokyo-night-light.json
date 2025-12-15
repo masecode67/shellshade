@@ -1,0 +1,31 @@
+{
+  "name": "Tokyo Night Light",
+  "author": "Tokyo Night",
+  "description": "Light variant of Tokyo Night theme",
+  "colors": {
+    "background": "#D5D6DB",
+    "foreground": "#343B58",
+    "cursor": "#343B58",
+    "cursorText": "#D5D6DB",
+    "selection": "#9699A3",
+    "selectionText": "#343B58",
+    "ansi": {
+      "black": "#343B58",
+      "red": "#8C4351",
+      "green": "#485E30",
+      "yellow": "#8F5E15",
+      "blue": "#34548A",
+      "magenta": "#5A4A78",
+      "cyan": "#0F4B6E",
+      "white": "#D5D6DB",
+      "brightBlack": "#9699A3",
+      "brightRed": "#8C4351",
+      "brightGreen": "#485E30",
+      "brightYellow": "#8F5E15",
+      "brightBlue": "#34548A",
+      "brightMagenta": "#5A4A78",
+      "brightCyan": "#0F4B6E",
+      "brightWhite": "#D5D6DB"
+    }
+  }
+}

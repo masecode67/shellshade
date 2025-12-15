@@ -1,0 +1,37 @@
+{
+  "name": "Midnight Ember",
+  "author": "Termify",
+  "description": "Deep black variant with high contrast vibrant colors",
+  "colors": {
+    "background": "#212121",
+    "foreground": "#EEFFFF",
+    "cursor": "#FFCC00",
+    "cursorText": "#212121",
+    "selection": "#424242",
+    "selectionText": "#FFFFFF",
+    "ansi": {
+      "black": "#545454",
+      "red": "#FF5370",
+      "green": "#C3E88D",
+      "yellow": "#FFCB6B",
+      "blue": "#82AAFF",
+      "magenta": "#C792EA",
+      "cyan": "#89DDFF",
+      "white": "#EEFFFF",
+      "brightBlack": "#545454",
+      "brightRed": "#FF5370",
+      "brightGreen": "#C3E88D",
+      "brightYellow": "#FFCB6B",
+      "brightBlue": "#82AAFF",
+      "brightMagenta": "#C792EA",
+      "brightCyan": "#89DDFF",
+      "brightWhite": "#FFFFFF"
+    }
+  },
+  "settings": {
+    "fontFamily": "JetBrains Mono",
+    "fontSize": 13,
+    "cursorStyle": "block",
+    "cursorBlink": true
+  }
+}
